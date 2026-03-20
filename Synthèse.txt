@@ -1,0 +1,40 @@
+Gestion des produits de saison et des produits à bas prix : Le système devra identifier les produits de saison (en fonction du mois) et permettre de suivre les produits en promotion ou avec des remises.
+Analyse des préférences des clients : Le système pourra inclure une collecte d’informations statistiques sur les tranches d’âge achetant certains produits pour un meilleur ajustement des stocks.
+Gestion des stocks : Les quantités seront suivies, et une alerte pourra être générée en cas de baisse d’un produit en stock.
+
+
+
+3. Synthèse des recherches et informations recueillies
+
+Vous avez interviewé Abdelaziz Rharrabti, un salarié de MR91, pour comprendre les besoins opérationnels de l’entreprise. Il a souligné les points suivants :
+
+    Facturation : Actuellement gérée manuellement, l’entreprise pourrait tirer profit d’une gestion informatisée pour un meilleur suivi et une possible analyse des ventes.
+    Gestion des commandes et des clients : Les clients achètent directement en magasin, et les informations clients ne sont pas suivies. Cependant, la collecte d’informations de base pourrait améliorer l’optimisation des stocks.
+    Besoins en information : MR91 souhaite identifier les produits populaires par période et par tranche d’âge de la clientèle pour anticiper les besoins et optimiser le stock.
+
+Synthèse des recherches et informations recueillies
+
+Pour bien comprendre le fonctionnement de l’entreprise MR91 et cerner ses besoins en termes de gestion de données, j’ai pris contact avec Abdelaziz Rharrabti, un salarié de cette entreprise de vente de fruits et légumes située à Les Ulis. Cette entreprise opère principalement sur les marchés locaux, offrant un large choix de produits en libre-service aux clients. L’entretien téléphonique et les échanges qui ont suivi m’ont permis d’identifier plusieurs aspects clés dans le fonctionnement et les besoins de MR91, notamment en ce qui concerne la gestion des stocks, la facturation, les ventes et le besoin d’analyse client.
+1. Gestion de la facturation
+
+Actuellement, MR91 gère la facturation de manière entièrement manuelle. Chaque facture est traitée par un expert-comptable extérieur, ce qui signifie qu’il n’y a pas d’outils informatisés pour faciliter le suivi des transactions ou pour avoir une vision rapide des ventes. Cette méthode présente des inconvénients pour l'entreprise, notamment un risque d'erreur humaine et une difficulté à consulter rapidement les informations pour les besoins analytiques ou en cas d'audit interne. Une base de données pourrait grandement améliorer l'efficacité en permettant de suivre les ventes et d’analyser les tendances sur une période donnée, offrant à MR91 une vue d’ensemble plus dynamique de son chiffre d'affaires.
+2. Gestion des commandes
+
+Les ventes sont réalisées exclusivement en direct sur les marchés, sans possibilité de commande en ligne ou à distance. Les clients effectuent leurs achats en caisse, sans suivi de commandes ou d’historique d’achat. Par conséquent, l’entreprise ne dispose pas de données client exploitables ni de moyen pour encourager la fidélité ou la personnalisation des offres. Cependant, la gestion de la caisse et des articles achetés pourrait être intégrée dans une base de données pour un suivi plus structuré des produits vendus, de leurs quantités et des pics de demande.
+3. Gestion des stocks
+
+Les stocks sont également gérés manuellement, ce qui nécessite une vigilance accrue de la part des salariés. Cette méthode de suivi rend difficile la prévision des réapprovisionnements, car il n’y a pas de système permettant d’alerter l’entreprise sur les faibles niveaux de stock. Le passage à une gestion informatisée permettrait de centraliser les informations sur les quantités disponibles pour chaque produit et d'automatiser les alertes en cas de baisse des stocks. Cette approche serait également bénéfique pour suivre les produits de saison et organiser les réapprovisionnements en conséquence, selon les pics de demande identifiés.
+4. Gestion des clients et analyse des ventes
+
+L’entreprise ne collecte actuellement pas de données sur ses clients, car elle propose des produits en libre-service. Cependant, Abdelaziz Rharrabti a exprimé un intérêt pour l'obtention de statistiques sur la clientèle pour comprendre les préférences d’achat. Par exemple, une segmentation par tranche d’âge ou par période d'achat pourrait aider l’entreprise à mieux adapter son offre, en identifiant quels produits sont les plus populaires et en optimisant les stocks en fonction des tranches d’âge et des saisons. Cette information pourrait être collectée sous forme anonyme à partir des achats et consultée par les cadres et salariés pour une gestion plus stratégique des stocks.
+5. Synthèse des besoins et propositions de solutions
+
+MR91 a besoin d'un système capable de :
+
+    Gérer les produits de saison et les articles en promotion, afin de fournir des informations en temps réel sur les produits dont la demande est en augmentation ou diminution en fonction des périodes de l'année.
+    Suivre les stocks pour éviter les ruptures et faciliter l'organisation des approvisionnements, avec des alertes pour les stocks bas.
+    Analyser les ventes et les préférences clients : les informations anonymisées sur la fréquence des ventes par type de produit et tranche d’âge (même approximative) permettraient à l'entreprise de mieux connaître sa clientèle et de cibler les produits phares à promouvoir en magasin.
+
+Ces besoins peuvent être satisfaits par un modèle de base de données centralisé, qui permettrait aux cadres d’accéder aux informations en temps réel et de les partager avec les salariés pour améliorer les prises de décision.
+
+En somme, cette synthèse met en évidence le besoin d’une base de données relationnelle bien structurée et d’un modèle de données qui facilite l'accès aux informations, pour à la fois automatiser la gestion des stocks, simplifier la facturation et analyser les préférences des clients. Ces informations permettront à l’entreprise MR91 de mieux adapter son offre de produits aux besoins de la clientèle et de renforcer l'efficacité opérationnelle.
